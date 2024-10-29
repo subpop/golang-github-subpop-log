@@ -14,8 +14,6 @@ Version:                0.1.2
 
 %gometa -L -f
 
-%global goaltipaths     git.sr.ht/~spc/go-log
-
 %global common_description %{expand:
 Package log implements a simple level logging package that maintains API
 compatibility with the standard library log package. It extends the standard
